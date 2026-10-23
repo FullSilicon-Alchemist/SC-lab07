@@ -1,0 +1,13 @@
+1|alyssa|2016-02-17T10:00:00Z|is it reasonable to talk about rivest so much?
+2|bbitdiddle|2016-02-17T10:05:00Z|rivest talk in 30 minutes #hype
+3|alyssa|2016-02-17T10:10:00Z|reminder to @alyssa: ask @rivest about the proof
+4|evaluator|2016-02-17T10:15:00Z|thanks @alyssa and @bbitdiddle for the help
+5|bbitdiddle|2016-02-17T10:20:00Z|@rivest see you at lecture
+6|evaluator|2016-02-17T10:25:00Z|@rivest are office hours today?
+7|rivest|2016-02-17T10:30:00Z|problem set 1 is out
+8|ben-b|2016-02-17T10:35:00Z|@bbitdiddle meet at the lab
+9|ben-b|2016-02-17T10:40:00Z|@alyssa nice slides
+10|louis_r|2016-02-17T10:45:00Z|@Alyssa can you review my code?
+11|cy_d_fect|2016-02-17T10:50:00Z|@ALYSSA and @bbitdiddle demo at 5
+12|cy_d_fect|2016-02-17T10:55:00Z|email bob@mit.edu about the demo
+13|louis_r|2016-02-17T11:00:00Z|talking to myself @louis_r
